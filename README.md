@@ -57,17 +57,20 @@ This project analyzes CO₂ emissions in logistics between 2015 and 2023.
 
 ##  Project Structure / Projektstruktur
 
-/Logistics_emissions/
+```
+logistics-emissions/
 ├── logistics_emissions_analysis.ipynb
 ├── data/
-│ └── logistics_emissions_dataset.csv
+│   └── logistics_emissions_dataset.csv
 ├── charts/
-│ ├── output_01.png
-│ ├── output_02.png
-│ ├── output_03.png
-│ ├── output_04.png
-│ └── output_05.png
+│   ├── output_01.png
+│   ├── output_02.png
+│   ├── output_03.png
+│   ├── output_04.png
+│   └── output_05.png
 └── README.md
+```
+
 
 ---
 
